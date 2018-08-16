@@ -163,13 +163,13 @@
 1. 准备数据
 
    ```shell
-   sysbench /usr/share/sysbench/tests/include/oltp_legacy/oltp.lua --mysql-host=<mysql-end-point> --mysql-port=3306 --mysql-user=masteruser --mysql-password=<your-password> --mysql-db=dbname --oltp-test-mode=complex --oltp-tables-count=10 --oltp-table-size=100000 --threads=10 --time=120 --report-interval=10 prepare
+   sysbench /usr/share/sysbench/tests/include/oltp_legacy/oltp.lua --mysql-host=<mysql_host_name> --mysql-port=3306 --mysql-user=masteruser --mysql-password=<your_pasword> --mysql-db=dbname --oltp-test-mode=complex --oltp-tables-count=80 --oltp-table-size=100000 --threads=500 --time=300 --report-interval=10 prepare
    ```
 
 2. 执行测试
 
    ```shell
-   sysbench /usr/share/sysbench/tests/include/oltp_legacy/oltp.lua --mysql-host=<mysql-end-point> --mysql-port=3306 --mysql-user=masteruser --mysql-password=<your-password> --mysql-db=dbname --oltp-test-mode=complex --oltp-tables-count=10 --oltp-table-size=100000 --threads=10 --time=120 --report-interval=10 run >>  ~/mysysbench.log
+   sysbench /usr/share/sysbench/tests/include/oltp_legacy/oltp.lua --mysql-host=<mysql_host_name> --mysql-port=3306 --mysql-user=masteruser --mysql-password=<your_pasword> --mysql-db=dbname --oltp-test-mode=complex --oltp-tables-count=80 --oltp-table-size=100000 --threads=500 --time=300 --report-interval=10 run >>  ~/mysysbench.log
    ```
 
    
@@ -179,13 +179,13 @@
 1. 准备数据
 
    ```shell
-   sysbench /usr/share/sysbench/tests/include/oltp_legacy/oltp.lua --mysql-host=<aurroa-end-point> --mysql-port=3306 --mysql-user=masteruser --mysql-password=<your-password> --mysql-db=dbname --oltp-test-mode=complex --oltp-tables-count=10 --oltp-table-size=100000 --threads=10 --time=120 --report-interval=10 prepare
+   sysbench /usr/share/sysbench/tests/include/oltp_legacy/oltp.lua --mysql-host=<aurora_host_name> --mysql-port=3306 --mysql-user=masteruser --mysql-password=<your_pasword> --mysql-db=dbname --oltp-test-mode=complex --oltp-tables-count=80 --oltp-table-size=100000 --threads=500 --time=300 --report-interval=10 prepare
    ```
 
 2. 执行测试
 
    ```shell
-   sysbench /usr/share/sysbench/tests/include/oltp_legacy/oltp.lua --mysql-host=<aurrora-end-point> --mysql-port=3306 --mysql-user=masteruser --mysql-password=<your-password> --mysql-db=dbname --oltp-test-mode=complex --oltp-tables-count=10 --oltp-table-size=100000 --threads=10 --time=120 --report-interval=10 run >>  ~/mysysbench.log
+   sysbench /usr/share/sysbench/tests/include/oltp_legacy/oltp.lua --mysql-host=<aurora_host_name> --mysql-port=3306 --mysql-user=masteruser --mysql-password=<your_pasword> --mysql-db=dbname --oltp-test-mode=complex --oltp-tables-count=80 --oltp-table-size=100000 --threads=500 --time=300 --report-interval=10 run >>  ~/mysysbench.log
    ```
 
    
