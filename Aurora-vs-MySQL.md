@@ -18,7 +18,7 @@
 >
 > 本实验默认您已经拥有了 AWS 账户并创建了 IAM 用户
 >
-> 若未执行以上设置，可参考[这里
+> 若未执行以上设置，可参考[这里](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#sign-up-for-aws)
 
 ### 配置 VPC
 
