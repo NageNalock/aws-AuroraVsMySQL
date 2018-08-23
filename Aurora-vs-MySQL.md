@@ -55,9 +55,9 @@
    - **主用户名**: `masteruser`
    - **主密码**: 用户自定义
 
-   ![image-20180823154030274](assets/image-20180823154030274.png)
+   ![image-20180823154030274](assets/Aurora_MySQL/image-20180823154030274.png)
 
-   ![image-20180823154050296](assets/image-20180823154050296.png)
+   ![image-20180823154050296](assets/Aurora_MySQL/image-20180823154050296.png)
 
    在**配置高级设置**页面上，提供 RDS 启动 MySQL 数据库实例所需的其他信息。选择下列值，然后选择 **下一步**。
 
@@ -173,12 +173,12 @@
 
 ![image-20180823162650020](assets/Aurora_MySQL/image-20180823162650020.png)
 
-在测试命令中, 存在*<your-mysql/aurora-endpoint>* 与 *<your-mysql/aurora-password>* 的占位符, 您需要将其替换
+在测试命令中, 存在<your-mysql/aurora-endpoint> 与 *<your-mysql/aurora-password>* 的占位符, 您需要将其替换
 
-- *<your-mysql-endpoint>* : 替换为您 **MySQL** 的**终端节点**
-- *<your-aurora-endpoint>*: 替换为您 **Aurora** 的**终端节点**
-- *<your-mysql-password>*: 替换为您在**配置 MySQL** 这一步中输入的用户**主密码**
-- *<your-aurora-password>*: 替换为您在**配置 Aurora** 这一步中输入的用户**主密码**
+- <your-mysql-endpoint> : 替换为您 **MySQL** 的**终端节点**
+- <your-aurora-endpoint>: 替换为您 **Aurora** 的**终端节点**
+- <your-mysql-password>: 替换为您在**配置 MySQL** 这一步中输入的用户**主密码**
+- <your-aurora-password>: 替换为您在**配置 Aurora** 这一步中输入的用户**主密码**
 
 #### 对 MySQL 进行压力测试
 
