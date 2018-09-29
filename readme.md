@@ -43,7 +43,7 @@
 
 3. 选择**启动数据库实例**。**启动数据库实例向导**在**选择引擎**页面打开。
 
-   ![](/Users/dicey/Documents/GitHub/aws-AuroraVsMySQL/assets/Aurora_MySQL/Aurora-0.png)
+   ![](assets/Aurora_MySQL/Aurora-0.png)
 
 4. 选择 **Amazon Aurora**, 并将**版本**选择为**与 MySQL 5.7 兼容**，然后选择**下一步**。
 
