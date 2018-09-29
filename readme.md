@@ -230,16 +230,16 @@ sudo vim ~/logs/sysbench.log
 
 #### Aurora
 
-1. ![image-20180823165153736](/Users/dicey/Documents/GitHub/aws-AuroraVsMySQL/assets/Aurora_MySQL/image-20180823165153736.png)
-2. ![image-20180823165542541](/Users/dicey/Documents/GitHub/aws-AuroraVsMySQL/assets/Aurora_MySQL/image-20180823165542541.png)
-3. ![image-20180823165655952](/Users/dicey/Documents/GitHub/aws-AuroraVsMySQL/assets/Aurora_MySQL/image-20180823165655952.png)
-4. ![image-20180823165806703](/Users/dicey/Documents/GitHub/aws-AuroraVsMySQL/assets/Aurora_MySQL/image-20180823165806703.png)
-5. ![image-20180823165856646](/Users/dicey/Documents/GitHub/aws-AuroraVsMySQL/assets/Aurora_MySQL/image-20180823165856646.png)
+1. ![image-20180823165153736](assets/Aurora_MySQL/image-20180823165153736.png)
+2. ![image-20180823165542541](assets/Aurora_MySQL/image-20180823165542541.png)
+3. ![image-20180823165655952](assets/Aurora_MySQL/image-20180823165655952.png)
+4. ![image-20180823165806703](assets/Aurora_MySQL/image-20180823165806703.png)
+5. ![image-20180823165856646](assets/Aurora_MySQL/image-20180823165856646.png)
 
 #### MySQL
 
-1. ![image-20180823165342877](/Users/dicey/Documents/GitHub/aws-AuroraVsMySQL/assets/Aurora_MySQL/image-20180823165342877.png)
-2. ![image-20180823165612114](/Users/dicey/Documents/GitHub/aws-AuroraVsMySQL/assets/Aurora_MySQL/image-20180823165612114.png)
-3. ![image-20180823165710827](/Users/dicey/Documents/GitHub/aws-AuroraVsMySQL/assets/Aurora_MySQL/image-20180823165710827.png)
-4. ![image-20180823165820590](/Users/dicey/Documents/GitHub/aws-AuroraVsMySQL/assets/Aurora_MySQL/image-20180823165820590.png)
-5. ![image-20180823165836462](/Users/dicey/Documents/GitHub/aws-AuroraVsMySQL/assets/Aurora_MySQL/image-20180823165836462.png)
+1. ![image-20180823165342877](assets/Aurora_MySQL/image-20180823165342877.png)
+2. ![image-20180823165612114](assets/Aurora_MySQL/image-20180823165612114.png)
+3. ![image-20180823165710827](assets/Aurora_MySQL/image-20180823165710827.png)
+4. ![image-20180823165820590](assets/Aurora_MySQL/image-20180823165820590.png)
+5. ![image-20180823165836462](assets/Aurora_MySQL/image-20180823165836462.png)
